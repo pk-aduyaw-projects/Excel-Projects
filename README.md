@@ -1,5 +1,6 @@
 <h1 align="center">Excel Interactive Dashboards</h1>
 
+<h2>Overview</h2>
 There are numerous tools available for creating interactive dashboards, but this repository specifically focuses on using Microsoft Excel to build them.
 
 <h2>Usage</h2>
