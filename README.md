@@ -8,12 +8,13 @@ There are numerous tools available for creating interactive dashboards, but this
 Select the Excel Workbook depending on the title and download it to view the interactive dashboard.
 
 To download the file, follow these steps:
-  <li>Find the xlsm file in the file list.</li>
-  <li>Click on the file name to view its contents.</li>
-  <li>Click the "Download" button or use the "Raw" button to download the file directly.</li>
-  <li>Open the file on your local machine to view the interactive dashboard.</li>
 
-<h3>Projects</h3>
+1. Find the xlsm file in the file list.</li>
+2. Click on the file name to view its contents.</li>
+3. Click the "Download" button or use the "Raw" button to download the file directly.</li>
+4. Open the file on your local machine to view the interactive dashboard.</li>
+
+<h2>Projects</h2>
 
 <li>Retail Sales Analysis Dashboard</li>
 
