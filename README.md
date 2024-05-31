@@ -16,6 +16,8 @@ To download the file, follow these steps:
 
 <li>Retail Sales Analysis Dashboard</li>
 
+![Screenshot (112)](https://github.com/pk-aduyaw-projects/Excel-Projects/assets/148882212/a9921578-b371-4a42-ae02-a7a4743a5fc1)
+
 
 <h2>Feedback</h2>
 
